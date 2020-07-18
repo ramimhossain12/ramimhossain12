@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there ! 👋
 
-<!--
-**ramimhossain12/ramimhossain12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+I m Happy To Know That You Just Visited My Github Profile
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Mobile Application Development
+- 🌱 I’m currently learning ... Flutter
+- 👯 I’m looking to collaborate on ... Projects
+- 🤔 I’m looking for help with ... Apps & Game Related Works
+- 💬 Ask me about ... Mobile Application Development
+- 📫 How to reach me: ... ramimhossain.com
+- 😄 Pronouns: ... Ramim Hossain
+- ⚡ Fun fact: ... Dont Talk about Crush I only Know About App & Game Crush
 -->
