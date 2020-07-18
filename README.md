@@ -8,7 +8,7 @@ I m Happy To Know That You Just Visited My Github Profile
 - 👯 I’m looking to collaborate on ... Projects
 - 🤔 I’m looking for help with ... Apps & Game Related Works
 - 💬 Ask me about ... Mobile Application Development
-- 📫 How to reach me: ... ramimhossain.com
+- 📫 How to reach me: ... https://ramimhossain.com/
 - 😄 Pronouns: ... Ramim Hossain
 - ⚡ Fun fact: ... Dont Talk about Crush I only Know About App & Game Crush
 -->
