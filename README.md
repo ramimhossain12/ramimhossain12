@@ -10,5 +10,5 @@ I m Happy To Know That You Just Visited My Github Profile
 - 💬 Ask me about ... Android & ios Application Development
 - 📫 How to reach me: ... https://ramimhossain.com/
 - 😄 Pronouns: ... Ramim Hossain
-- ⚡ Fun fact: ... Dont Talk about Crush I only Know About App & Game Crush
+- ⚡ Fun fact: ... Don't Talk about Crush I only Know About App & Game Crush
 -->
