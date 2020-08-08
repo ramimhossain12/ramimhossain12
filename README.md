@@ -1,7 +1,7 @@
 ### Hi there ! 👋
 
  
-I m Happy To Know That You Just Visited My Github Profile
+I m Happy To Know That You Just Visited My Github Profile.🙂
 A little more about me...
 
 - 🔭 I’m currently working on ... Mobile Application Development
