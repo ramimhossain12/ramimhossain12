@@ -5,7 +5,7 @@ I m Happy To Know That You Just Visited My Github Profile.🙂
 A little more about me...
 
 - 🔭 I’m currently working on ... Mobile Application Development
-- 🌱 I’m currently learning ... Flutter
+- 🌱 I’m currently learning ... Android App Development
 - 👯 I’m looking to collaborate on ... Projects
 - 🤔 I’m looking for help with ... Apps & Game Related Works
 - 💬 Ask me about ... Android & ios Application Development
