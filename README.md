@@ -13,10 +13,6 @@ A little more about me...
 - 😄 Pronouns: ... Ramim Hossain
 - ⚡ Fun fact: ... Don't Talk about Crush I only Know About App & Game Crush
 
-
- 
-
-
 <img height="90" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
  
  
