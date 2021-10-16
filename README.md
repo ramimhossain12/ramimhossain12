@@ -48,7 +48,7 @@ A little more about me...
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ramim_hossain74/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RamimHo92163398) 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramim.cse.info@gmail.com)
-[![Web Site](https://img.shields.io/badge/Website-D14836?style=for-the-badge&logo=web&logoColor=white)](http://ramimhossain.com/)
+[![Web Site](https://img.shields.io/badge/Website-D14836?style=for-the-badge&logo=web&logoColor=white)](http://ramimhossain.info/)
 
 
 <img height="90" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
