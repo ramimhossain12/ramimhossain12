@@ -7,7 +7,7 @@ I m Happy To Know That You Just Visited My Github Profile.🙂
 A little more about me...
  <img align="right" alt="Coding" width="320" src="https://github.com/ramimhossain12/Flutter-Network-Image-For-About/blob/main/images/18123-developer.gif">                                                                               
 - 🔭 I’m currently working on ... Mobile Application Development
-- 🌱 I’m currently learning ... Android App Development
+- 🌱 I’m currently learning ... iOS App Development
 - 👯 I’m looking to collaborate on ... Projects
 - 🤔 I’m looking for help with ... Apps & Game Related Works
 - 💬 Ask me about ... Android & ios Application Development
