@@ -15,7 +15,7 @@
 
 <h2 data-importer="text" align="left">About me</h2>
 <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif">   
-###
+
 
 <p data-importer="text" align="left">💼 Role: Software Engineer at Revolut<br>📍 Location: London, United Kingdom 🇬🇧<br>🚀 Specializations: Native iOS (Swift & SwiftUI) | Android Native (Kotlin) | Flutter | On-Device AI<br>🛠 Engineering Focus: Mobile System Architecture, CoreML, Performance Optimization & High-Scale Applications<br>🎓 Education: M.Sc. in Computer Science<br>🌐 Personal Hub: https://ramimhossain.info<br>💼 Portfolio: https://hramim.netlify.app<br>🎯 Goals: Building seamless mobile experiences and integrating next-gen AI models into native environments<br> ⚡ Fun fact: ... Don't Talk about Crush I only Know About App & Game Crush
 
